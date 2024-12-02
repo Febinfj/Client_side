@@ -37,4 +37,4 @@ function nameDisplayCheck() {
   }
 }
 
-nameDisplayCheck();
+nameDisplayCheck()
